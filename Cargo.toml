@@ -1,0 +1,8 @@
+[package]
+name = "colorize"
+version = "0.1.0"
+authors = ["Reuben Cornel <reuben.cornel@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "~2.32"
